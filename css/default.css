@@ -1,0 +1,36 @@
+body {
+    margin : auto;
+    width : 70%;
+    background: black;
+    color: navajowhite;
+    padding-left : 5%;
+    padding-right : 5%;
+    font-family: Siyam Rupali, Arial;
+}
+
+#mainImg {
+    width : 20%;
+    margin-left : 35%;
+}
+
+#statusHead {
+    margin-left : 25%;
+}
+
+#clkPaul {
+    margin-left : 40%;
+    padding-right: 2%;
+    padding-left: 2%;
+    background : black;
+    color: navajowhite;
+    font-size : large;
+    font-family: Siyam Rupali, Arial;
+}
+
+#quitApp {
+    margin-left : 40%;
+    background : black;
+    color: navajowhite;
+    font-size : large;
+    font-family: Siyam Rupali, Arial;
+}
